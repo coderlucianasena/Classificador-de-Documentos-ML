@@ -49,7 +49,7 @@ classificacao_documentos_ml/
 1.  **Clone o repositório (se aplicável):**
 
     ```bash
-    git clone https://github.com/coderlucianasena/Classifica-o-de-Documentos-ML.git
+    git clone https://github.com/coderlucianasena/Classificador-de-Documentos-ML.git
     cd classificacao_documentos_ml
     ```
 
